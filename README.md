@@ -4,3 +4,5 @@ Those are my first steps in python, so i will update later between time goes and
 Here I go to register updates dates.
 
 First update: 27/07/2023
+
+Update: 28/07/2023
